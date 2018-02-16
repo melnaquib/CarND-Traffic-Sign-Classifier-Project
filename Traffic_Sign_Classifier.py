@@ -232,6 +232,7 @@ def LeNet(x):
 
     return logits
 
+
 # ### Train, Validate and Test the Model
 
 # A validation set can be used to assess how well the model is performing. A low accuracy on the training and validation
